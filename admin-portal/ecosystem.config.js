@@ -1,7 +1,7 @@
 module.exports = {
   apps: [
     {
-      name: "TinVietToday_admin",
+      name: "iamtapnews_admin",
       script: ".output/server/index.mjs",
       watch: false,
       autorestart: true,
